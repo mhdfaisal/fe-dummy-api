@@ -1,0 +1,118 @@
+{
+	"popular": [
+		{
+			"id": 1,
+			"question": "¿Cuáles son los múltiplos del 7?",
+			"description": "La verdad no me queda muy claro cuáles son los múltiplos del 7 porque, Cómo calcular la hipotenusa de un triángulo, Cómo calcular la hipotenusa de un triángulo",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 2,
+			"question": "¿Cómo calcular la hipotenusa de un triángulo?",
+			"description": "La verdad no me queda muy claro cuáles son los múltiplos del 7 porque, Cómo calcular la hipotenusa de un triángulo, Cómo calcular la hipotenusa de un triángulo",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 3,
+			"question": "Donec dictum libero semper libero mollis?",
+			"description": " Suspendisse elementum tortor ultricies erat venenatis, at condimentum sapien interdum. Etiam magna lorem, rutrum in lacus at, commodo varius est. Cras fringilla gravida elit sed consequat. Praesent hendrerit hendrerit ipsum.",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 6,
+			"question": "Aliquam sagittis volutpat orci, ac laoreet velit varius malesuada. ?",
+			"description": "Nulla tempus hendrerit ante non iaculis. Suspendisse pellentesque facilisis enim et ullamcorper. Aliquam sagittis volutpat orci, ac laoreet velit varius malesuada. Quisque eleifend cursus dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse elementum tortor ultricies erat venenatis, at condimentum sapien interdum. Etiam magna lorem, rutrum in lacus at, commodo varius est. ",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		}
+	],
+	"new": [
+		{
+			"id": 1,
+			"question": "¿Cuáles son los múltiplos del 7?",
+			"description": "La verdad no me queda muy claro cuáles son los múltiplos del 7 porque, Cómo calcular la hipotenusa de un triángulo, Cómo calcular la hipotenusa de un triángulo",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 2,
+			"question": "¿Cómo calcular la hipotenusa de un triángulo?",
+			"description": "La verdad no me queda muy claro cuáles son los múltiplos del 7 porque, Cómo calcular la hipotenusa de un triángulo, Cómo calcular la hipotenusa de un triángulo",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 4,
+			"question": "Morbi scelerisque libero eu justo finibus, vitae placerat?",
+			"description": "Ut suscipit leo ut aliquet molestie. Sed interdum elit sed justo condimentum molestie. Integer convallis pharetra venenatis. Nullam eleifend tellus aliquet dictum lobortis. Vivamus rhoncus rutrum sem malesuada commodo. Duis elementum metus at magna faucibus aliquam. Aliquam eget nulla pulvinar, imperdiet leo ut, vehicula dui. Duis fermentum ultrices consectetur. Quisque sollicitudin sapien in quam lacinia egestas.",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		}
+	],
+	"followed": [
+		{
+			"id": 1,
+			"question": "¿Cuáles son los múltiplos del 7?",
+			"description": "La verdad no me queda muy claro cuáles son los múltiplos del 7 porque, Cómo calcular la hipotenusa de un triángulo, Cómo calcular la hipotenusa de un triángulo",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 2,
+			"question": "¿Cómo calcular la hipotenusa de un triángulo?",
+			"description": "La verdad no me queda muy claro cuáles son los múltiplos del 7 porque, Cómo calcular la hipotenusa de un triángulo, Cómo calcular la hipotenusa de un triángulo",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 4,
+			"question": "Morbi scelerisque libero eu justo finibus, vitae placerat?",
+			"description": "Ut suscipit leo ut aliquet molestie. Sed interdum elit sed justo condimentum molestie. Integer convallis pharetra venenatis. Nullam eleifend tellus aliquet dictum lobortis. Vivamus rhoncus rutrum sem malesuada commodo. Duis elementum metus at magna faucibus aliquam. Aliquam eget nulla pulvinar, imperdiet leo ut, vehicula dui. Duis fermentum ultrices consectetur. Quisque sollicitudin sapien in quam lacinia egestas.",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		},
+		{
+			"id": 5,
+			"question": "Vestibulum facilisis a leo vitae malesuada. Quisque pretium?",
+			"description": "Morbi scelerisque libero eu justo finibus, vitae placerat dui aliquam. Praesent et elit eu orci convallis dignissim. Praesent felis enim, sodales a mauris eget, euismod faucibus dolor. Vestibulum pellentesque suscipit ante finibus ornare. Mauris ultricies ante odio, et feugiat neque porta dapibus. Proin dignissim pulvinar erat quis consequat. Phasellus accumsan auctor lectus, quis porttitor sapien finibus ac. Donec in neque ornare, lacinia ipsum ac, ullamcorper orci. Quisque quis augue eget purus egestas tempor vitae a justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"liked": false,
+			"disliked": false,
+			"comments_count": 72,
+			"thread": "Pregunta juan.c23 en Matemáticas 6º",
+			"favorite": false
+		}
+	]
+}
