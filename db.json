@@ -8,9 +8,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 2,
@@ -20,9 +21,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 3,
@@ -32,9 +34,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 6,
@@ -44,9 +47,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		}
 	],
 	"new": [
@@ -58,9 +62,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 2,
@@ -70,9 +75,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 4,
@@ -82,9 +88,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		}
 	],
 	"followed": [
@@ -96,9 +103,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 2,
@@ -108,9 +116,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 4,
@@ -120,9 +129,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		},
 		{
 			"id": 5,
@@ -132,9 +142,10 @@
 			"liked": false,
 			"disliked": false,
 			"comments_count": 72,
-			"thread": "Pregunta juan.c23 en",
+			"thread": "juan.c23 en",
 			"group": "Matemáticas 6º",
-			"favorite": false
+			"favorite": false,
+			"createdAt": "2021-02-17T19:37:50Z"
 		}
 	]
 }
